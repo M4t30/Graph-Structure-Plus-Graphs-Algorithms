@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\agh university of science and technology\rok i semestr ii\algorytmy i struktury danych\laboratoria\aisd_graph\aisd_graph\source.cpp(1027): warning C4715: 'setForest': not all control paths return a value
+d:\agh university of science and technology\rok i semestr ii\algorytmy i struktury danych\laboratoria\aisd_graph\aisd_graph\source.cpp(1212): warning C4715: 'setForestOnLN': not all control paths return a value
+  AiSD_Graph.vcxproj -> D:\AGH University of science and technology\Rok I Semestr II\Algorytmy i struktury danych\laboratoria\AiSD_Graph\Debug\AiSD_Graph.exe
+  AiSD_Graph.vcxproj -> D:\AGH University of science and technology\Rok I Semestr II\Algorytmy i struktury danych\laboratoria\AiSD_Graph\Debug\AiSD_Graph.pdb (Partial PDB)
